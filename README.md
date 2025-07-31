@@ -40,7 +40,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Peticiones HTTP
 - Es conveniente antes de hacer la petición, poder comprobar la url (Uri.parse)
-- 
 
 ## Funciones
 - JsonDecode: Jsondecode devuelve el mapa que hemos hablado para poderrecorrelo 
